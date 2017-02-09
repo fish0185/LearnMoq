@@ -1,0 +1,13 @@
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\MoqTest.dll
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\MoqTest.pdb
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\Castle.Core.dll
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\Moq.dll
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\nunit.framework.dll
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\Castle.Core.xml
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\Moq.xml
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\nunit.framework.xml
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\obj\Debug\MoqTest.csprojResolveAssemblyReference.cache
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\obj\Debug\MoqTest.dll
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\obj\Debug\MoqTest.pdb
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\MoqLearn.exe
+c:\Users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqTest\bin\Debug\MoqLearn.pdb

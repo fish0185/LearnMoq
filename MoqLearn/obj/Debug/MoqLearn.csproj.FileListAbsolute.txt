@@ -1,0 +1,6 @@
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\bin\Debug\MoqLearn.exe.config
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\bin\Debug\MoqLearn.exe
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\bin\Debug\MoqLearn.pdb
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\obj\Debug\MoqLearn.exe
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\obj\Debug\MoqLearn.pdb
+c:\users\gary\documents\visual studio 2015\Projects\MoqLearn\MoqLearn\obj\Debug\MoqLearn.csprojResolveAssemblyReference.cache
